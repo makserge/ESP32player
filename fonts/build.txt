@@ -1,0 +1,2 @@
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/cronyx/crox6h.bdf -n crox6h -o ~/my/esp32/ESP32player/fonts/cronyx/output/crox6h.c
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1c.bdf -n win_crox1c -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1c.c

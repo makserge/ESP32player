@@ -3,6 +3,7 @@
 #include "freertos/task.h"
 #include "app_main.h"
 #include "ucg_esp32_hal.h"
+#include "convert_utf8_to_windows1251.h"
 
 ucg_t ucg;
 
@@ -29,11 +30,16 @@ void app_main()
 
     ucg_SetFontMode(&ucg, UCG_FONT_MODE_TRANSPARENT);
     ucg_ClearScreen(&ucg);
-    ucg_SetFontPosTop(&ucg);
 
-    ucg_SetFont(&ucg, ucg_font_4x6_mf);
-    const char *str = "Hello";
-    ucg_DrawString(&ucg, 0, 0, 0, str);
+//	ucg_SetFont(&ucg, ucg_font_6x13_mf);
+    ucg_SetFont(&ucg, win_crox1c);
+    //const char *str = "Hello world";
+    char *str = "Привет мир";
 
-    printf("Done5!\n");
+    char output[LINE_MAX] = {0};
+    convert_utf8_to_windows1251(str, output, LINE_MAX);
+
+    ucg_DrawString(&ucg, 0, 20, 0, output);
+
+    printf("Done11!\n");
 }
