@@ -1,2 +1,78 @@
-~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/cronyx/crox6h.bdf -n crox6h -o ~/my/esp32/ESP32player/fonts/cronyx/output/crox6h.c
-~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1c.bdf -n win_crox1c -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1c.c
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/cronyx/crox6h.bdf -n crox6h -o ~/my/esp32/ESP32player/fonts/cronyx/output/crox6h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1c.bdf -n win_crox1c -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1c.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1cb.bdf -n win_crox1cb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1cb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1cbo.bdf -n win_crox1cbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1cbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1co.bdf -n win_crox1co -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1co.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1h.bdf -n win_crox1h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1hb.bdf -n win_crox1hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1hbo.bdf -n win_crox1hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1ho.bdf -n win_crox1ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1ho.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1t.bdf -n win_crox1t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1tb.bdf -n win_crox1tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1tb.h
+
+!!failed
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1tbo.bdf -n win_crox1tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1tbo.h
+
+!!failed
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox1to.bdf -n win_crox1to -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox1to.h
+
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2c.bdf -n win_crox2c -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2c.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2cb.bdf -n win_crox2cb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2cb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2cbo.bdf -n win_crox2cbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2cbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2co.bdf -n win_crox2co -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2co.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2h.bdf -n win_crox2h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2hb.bdf -n win_crox2hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2hbo.bdf -n win_crox2hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2ho.bdf -n win_crox2ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2ho.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2t.bdf -n win_crox2t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2tb.bdf -n win_crox2tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2tb.h
+!!failed
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox2tbo.bdf -n win_crox2tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox2tbo.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3c.bdf -n win_crox3c -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3c.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3cb.bdf -n win_crox3cb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3cb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3cbo.bdf -n win_crox3cbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3cbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3co.bdf -n win_crox3co -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3co.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3h.bdf -n win_crox3h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3hb.bdf -n win_crox3hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3hbo.bdf -n win_crox3hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3ho.bdf -n win_crox3ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3ho.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3t.bdf -n win_crox3t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3tb.bdf -n win_crox3tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3tb.h
+!!failed ~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3tbo.bdf -n win_crox3tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3tbo.h
+!!failed ~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox3to.bdf -n win_crox3to -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox3to.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4h.bdf -n win_crox4h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4hb.bdf -n win_crox4hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4hbo.bdf -n win_crox4hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4ho.bdf -n win_crox4ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4ho.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4t.bdf -n win_crox4t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4tb.bdf -n win_crox4tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4tb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4tbo.bdf -n win_crox4tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4tbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox4to.bdf -n win_crox4to -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox4to.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5h.bdf -n win_crox5h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5hb.bdf -n win_crox5hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5hbo.bdf -n win_crox5hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5ho.bdf -n win_crox5ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5ho.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5t.bdf -n win_crox5t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5tb.bdf -n win_crox5tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5tb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5tbo.bdf -n win_crox5tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5tbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox5to.bdf -n win_crox5to -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox5to.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6h.bdf -n win_crox6h -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6h.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6hb.bdf -n win_crox6hb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6hb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6hbo.bdf -n win_crox6hbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6hbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6ho.bdf -n win_crox6ho -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6ho.h
+
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6t.bdf -n win_crox6t -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6t.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6tb.bdf -n win_crox6tb -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6tb.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6tbo.bdf -n win_crox6tbo -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6tbo.h
+~/my/esp32/ESP32player/components/ucglib/tools/font/bdfconv/bdfconv -b 0 ~/my/esp32/ESP32player/fonts/xrus-1251/win_crox6to.bdf -n win_crox6to -o ~/my/esp32/ESP32player/fonts/xrus-1251/output/win_crox6to.h

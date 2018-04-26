@@ -1,5 +1,5 @@
 #include "ucg.h"
-#include "fonts/win_crox1c.h"
+#include "fonts/win_crox1h.h"
 /*
   Fontname: FreeType-04b03b-Medium-R-Normal--8-80-72-72-P-39-ISO10646-1
   Copyright: 19992003 / yuji oshimo�o / 04@dsg4.com / www.04.jp.org

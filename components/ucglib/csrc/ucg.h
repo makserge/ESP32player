@@ -2171,7 +2171,9 @@ extern const ucg_fntpgm_uint8_t ucg_font_osr41_tn[] UCG_FONT_SECTION("ucg_font_o
 extern const ucg_fntpgm_uint8_t ucg_font_osr41_tr[] UCG_FONT_SECTION("ucg_font_osr41_tr");
 
 extern const ucg_fntpgm_uint8_t win_crox1c[] UCG_FONT_SECTION("win_crox1c");
-
+extern const ucg_fntpgm_uint8_t win_crox1cb[] UCG_FONT_SECTION("win_crox1cb");
+extern const ucg_fntpgm_uint8_t win_crox1cbo[] UCG_FONT_SECTION("win_crox1cbo");
+extern const ucg_fntpgm_uint8_t win_crox1h[] UCG_FONT_SECTION("win_crox1h");
 #endif
 
 
